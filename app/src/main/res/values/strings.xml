@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Dinheiro</string>
+
+    <string name="activity_planejamento">Planejamento</string>
+    <string name="activity_extrato">Extrato</string>
+    <string name="activity_visa">Visa</string>
+    <string name="activity_compras">Compras</string>
+    <string name="activity_poupanca">Poupança</string>
+    <string name="activity_parcelamentos">Parcelamentos</string>
+    <string name="activity_sem_parar">Sem Parar</string>
+    <string name="activity_previsao_pagamento">Previsão Pagamento</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_planejamento"
+            android:icon="@drawable/ic_planejamento"
+            android:title="Planejamento" />
+        <item
+            android:id="@+id/nav_extrato"
+            android:icon="@drawable/ic_extrato"
+            android:title="Extrato" />
+        <item
+            android:id="@+id/nav_visa"
+            android:icon="@drawable/ic_visa"
+            android:title="Visa" />
+        <item
+            android:id="@+id/nav_compra"
+            android:icon="@drawable/ic_compras"
+            android:title="Compras" />
+        <item
+            android:id="@+id/nav_poupanca"
+            android:icon="@drawable/ic_poupanca"
+            android:title="Poupança" />
+        <item
+            android:id="@+id/nav_parcelamento"
+            android:icon="@drawable/ic_parcelamento"
+            android:title="Parcelamentos" />
+        <item
+            android:id="@+id/nav_sem_parar"
+            android:icon="@drawable/ic_sem_parar"
+            android:title="Sem Parar" />
+        <item
+            android:id="@+id/nav_previsao_pagamento"
+            android:icon="@drawable/ic_previsao_pagamento"
+            android:title="Previsão Pagamento" />
+    </group>
+
+</menu>
